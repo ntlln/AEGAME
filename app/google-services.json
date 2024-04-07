@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895445471836",
+    "project_id": "agamefrbs",
+    "storage_bucket": "agamefrbs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895445471836:android:51c14e2a2b144ea9d3cc99",
+        "android_client_info": {
+          "package_name": "com.ntlln.agame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaFsUYOEVn0OtMv4-iJSs-bnOYsgN7ZgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
